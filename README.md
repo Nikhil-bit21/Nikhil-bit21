@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [My Snake Game Projects](https://github.com/Nikhil-bit21/Starting-Projects/tree/main/C%2B%2B/SnakeGame)
 
-- 👨‍💻 All of my projects are available at [#181717](https://github.com/Nikhil-bit21)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Nikhil-bit21)
 
 - 📫 How to reach me **swaminikhil21@gmail.com**
 
