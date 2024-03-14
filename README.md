@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swaminikhil21@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFtdMZCoFo/VMqN5secqEEOq-h78huYpA/edit?utm_content=DAFtdMZCoFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFtdMZCoFo/VMqN5secqEEOq-h78huYpA/edit?utm_content=DAFtdMZCoFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFtdMZCoFo/VMqN5secqEEOq-h78huYpA/edit?utm_content=DAFtdMZCoFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Unfortunately, There is Nothing less funny than trying to be funny.**
 
