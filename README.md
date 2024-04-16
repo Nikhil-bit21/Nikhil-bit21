@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **Unfortunately, There is Nothing less funny than trying to be funny.**
 
-- [![Nikhil-bit21's GitHub | Languages Over Time](https://stats.quine.sh/Nikhil-bit21/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nikhil-bit21)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/swaminikhil21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swaminikhil21" height="30" width="40" /></a>
