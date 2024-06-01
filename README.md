@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [My Childhood CricketGame](https://github.com/Nikhil-bit21/Cricket)
 
-- 🌱 I’m currently learning **C++ , Node and Js.**
+- 🌱 I have completed **backend of websites** at a good level and now diving deep into **Frontend Side of Websites.**
 
-- 👯 I’m looking to collaborate on [A Projects Which helps me learn something new](haven't Started yet)
+- 👯 I’m looking to collaborate on an API project I have built if someone is good at the Front-end part contact me!
 
 - 🤝 I’m looking for help with [My Snake Game Projects](https://github.com/Nikhil-bit21/Starting-Projects/tree/main/C%2B%2B/SnakeGame)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swaminikhil21@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFtdMZCoFo/VMqN5secqEEOq-h78huYpA/edit?utm_content=DAFtdMZCoFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGFlJaFa6c/1zwidlYDbIDwUqU5vzLJCg/edit?utm_content=DAGFlJaFa6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Unfortunately, There is Nothing less funny than trying to be funny.**
 
